@@ -24,7 +24,7 @@
 }
 
 .squareBg {
-  @apply absolute inset-0 bg-violet z-0 h-full;
+  @apply absolute inset-0 bg-violet z-0 h-3/6;
 }
 
 .nameBox {
